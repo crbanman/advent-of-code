@@ -2,9 +2,10 @@
 
 This repository contains my solutions to the [Advent of Code](https://adventofcode.com/) puzzles.
 
-**These answers are the first things that came to mind with 0 refactoring once the answer correct result was achieved.**
+**These answers are the first things that came to mind with 0 refactoring once the correct result was achieved.**
 
 ## Answers
 
 - [Day 1](day-01/) - Used Node.js
 - [Day 2](day-02/) - Used TypeScript with Deno
+- [Day 3](day-03/) - Used TypeScript with Deno

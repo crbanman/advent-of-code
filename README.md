@@ -10,3 +10,4 @@ This repository contains my solutions to the [Advent of Code](https://adventofco
 - [Day 2](day-02/) - Used TypeScript with Deno
 - [Day 3](day-03/) - Used TypeScript with Deno
 - [Day 4](day-04/) - Used TypeScript with Deno
+- [Day 5](day-05/) - Used TypeScript with Deno

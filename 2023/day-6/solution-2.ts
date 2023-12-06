@@ -12,6 +12,7 @@ let max = 0;
 for (let h = 1; h < time; h++) {
   if (h * (time - h) > distance) {
     max = h;
+    break;
   }
 }
 
@@ -19,9 +20,10 @@ let min = 0;
 for (let h = time; h > 0; h--) {
   if (h * (time - h) > distance) {
     min = h;
+    break;
   }
 }
 
-margin *= max - min + 1;
+margin *= min - max + 1;
 
 console.log(margin);
